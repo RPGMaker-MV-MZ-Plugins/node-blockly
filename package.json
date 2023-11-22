@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "jsdom": "^15.1.1",
-    "xmlshim": "^0.2.6"
+    "xmlshim": "https://github.com/RPGMaker-MV-MZ-Plugins/node-xmlshim#afc206d51828d73c5bb76a95bc339591dbbaf74d"
   },
   "devDependencies": {
     "chai": "^4.2.0",
